@@ -1,9 +1,0 @@
-﻿  extern.cpp
-  gamefunction.cpp
-C:\Users\86138\Desktop\tanchishe2版 2\tanchishe2版\tanchishe2\tanchishe2\gamefunction.cpp(1,1): warning C4828: 文件包含在偏移 0x15f 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
-  gamerun.cpp
-C:\Users\86138\Desktop\tanchishe2版 2\tanchishe2版\tanchishe2\tanchishe2\gamerun.cpp(1,1): warning C4828: 文件包含在偏移 0x112e 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
-  main.cpp
-  正在生成代码...
-  LINK : 没有找到 C:\Users\86138\Desktop\tanchishe2版 2\tanchishe2版\tanchishe2\x64\Debug\tanchishe2.exe 或上一个增量链接没有生成它；正在执行完全链接
-  tanchishe2.vcxproj -> C:\Users\86138\Desktop\tanchishe2版 2\tanchishe2版\tanchishe2\x64\Debug\tanchishe2.exe
